@@ -4,8 +4,9 @@
 
 Build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. Your app will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
-## Deployment
+## Heroku
 
+[MVC Tech Blog](https://mvctech-014-12685c84e9a4.herokuapp.com/)
 
 ## User Story
 
@@ -55,14 +56,18 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## Mock-Up
 
-The following animation demonstrates the application functionality:
+Heres a screenshot of the site
 
-![Animation cycles through signing into the app, clicking on buttons, and updating blog posts.](./Assets/14-mvc-homework-demo-01.gif) 
+![Screenshot](./Assets/Screenshot_20-4-2024_103547_localhost.jpeg) 
 
 
 ## Languages
 
-Node.js
+Bcryptjs
+
+Connect-Session-Sequelize
+
+Dotenv
 
 Express
 
@@ -70,9 +75,15 @@ Express Handlebars
 
 Express-Session
 
+Handlebars
+
+MySQL2
+
+Node.js
+
 Sequelize
 
-Dotenv
+
 
 
 
