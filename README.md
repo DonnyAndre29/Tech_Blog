@@ -58,7 +58,7 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 Heres a screenshot of the site
 
-![Screenshot](./Assets/Screenshot_20-4-2024_103547_localhost.jpeg) 
+![Screenshot](./Assets/Screenshot_20-4-2024_104250_mvctech-014-12685c84e9a4.herokuapp.com.jpeg) 
 
 
 ## Languages
